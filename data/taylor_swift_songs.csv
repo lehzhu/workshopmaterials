@@ -1,0 +1,7 @@
+song_name,album,year,popularity,danceability,energy,loudness,valence,tempo,duration_ms
+Love Story,Fearless,2008,84,0.63,0.78,-4.97,0.47,119.05,235000
+Shake It Off,1989,2014,87,0.65,0.80,-5.38,0.90,160.08,219200
+Blank Space,1989,2014,85,0.76,0.70,-6.07,0.57,96.05,231827
+Cardigan,folklore,2020,88,0.61,0.58,-8.45,0.34,130.03,239560
+Anti-Hero,Midnights,2022,90,0.64,0.64,-6.67,0.53,97.05,200690
+# ... more songs data
